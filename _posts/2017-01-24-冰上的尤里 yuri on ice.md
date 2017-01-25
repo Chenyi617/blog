@@ -6,7 +6,7 @@ permalink: /3
 categories: 动漫
 ---
 
-![冰上的尤里](/assets/yuri.jpg)
+![冰上的尤里](http://ok7luog6g.bkt.clouddn.com/yuri.jpg)
 
 
 美
