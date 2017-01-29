@@ -144,8 +144,17 @@ blockquote {
   padding: 16px;
   border-radius: 4px;
   border-top: 3px solid $alt-color;
-
 }
+#juzhong{
+  width:200px;
+  height:200px;
+  padding-top: 24px;
+padding-bottom: 24px;
+font-size:12pt;line-height:3;
+margin:0 auto;
+ vertical-align:middle;
+}
+
 p img{display:block;margin:0 auto;}
 @media (min-width:  576px){
 .content img {
@@ -159,7 +168,6 @@ p img{display:block;margin:0 auto;}
   box-shadow: #999 1px 1px 4px;
   }
 }
-
 
 @media (max-width: 576px){
 .content img {
