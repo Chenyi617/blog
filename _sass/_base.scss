@@ -146,12 +146,12 @@ blockquote {
   border-top: 3px solid $alt-color;
 
 }
-
+p img{display:block;margin:0 auto;}
 @media (min-width:  576px){
 .content img {
-  width:600px;
-  height: 400px;
-  // max-width: 600px;
+
+  max-width:727.33px;
+  max-height: 500px;
   display: block;
   margin: 4px auto;
   -webkit-box-shadow: #999 1px 1px 4px;
@@ -164,15 +164,14 @@ blockquote {
 @media (max-width: 576px){
 .content img {
     width: 400px;
-    max-width: 100%;
-     height:200px;
+    height:200px;
   }
 }
 @media (min-width: 576px) and (max-width: 992px){
 .content img {
-    width: 500px;
-    height:300px;
-    max-width: 100%;
+    max-width: 500px;
+    max-height:300px;
+   
   }
 }
 
