@@ -163,8 +163,8 @@ p img{display:block;margin:0 auto;}
 
 @media (max-width: 576px){
 .content img {
-    width: 400px;
-    height:200px;
+    max-width: 400px;
+    max-height:200px;
   }
 }
 @media (min-width: 576px) and (max-width: 992px){
