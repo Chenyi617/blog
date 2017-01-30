@@ -15,4 +15,4 @@ city: 温州/宁波
 simple_search: http://google.com/search
 markdown: kramdown
 highlighter: rouge
-# permalink: /:year/:month/:day/:title/
+permalink: /:year:month:day/
